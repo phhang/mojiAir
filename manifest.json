@@ -1,0 +1,10 @@
+{
+  "domain": "mojiAir",
+  "name": "MojiAir",
+  "documentation": "https://github.com/phhang/mojiAir",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@moji"],
+  "version": "0.1.0"
+}
+
